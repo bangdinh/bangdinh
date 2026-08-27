@@ -14,7 +14,7 @@ the harness around the model rather than the model itself.
 ## Technology
  
 - **AI & Agent** — LangGraph, MCP tool servers, LangSmith, Dify, RAG
-- **Backend** — Python/Django, Node.js, TypeScript, PostgreSQL, MongoDB, OpenSearch
+- **Backend** — Golang, Python/Django, Node.js, TypeScript, PostgreSQL, MongoDB, OpenSearch
 - **Video & Streaming** — RTSP, WebRTC, MediaMTX, ONVIF, GB28181, FFmpeg
 - **Mobile** — Kotlin, Java, Jetpack Compose, Flutter/Dart
 - **Infrastructure** — Docker, Kubernetes, Kong Gateway, GitLab CI
