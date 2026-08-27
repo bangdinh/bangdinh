@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=bangdinh&label=PROFILE+VIEWS&color=blue&style=flat)
 ## About Me
  
 I've spent about ten years writing software, most of it on mobile. I started on Android,
