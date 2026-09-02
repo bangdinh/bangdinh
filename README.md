@@ -3,7 +3,7 @@
 ## About Me
 
 I've spent about 10 years writing software, most of it on mobile. I started on Android,
-moved to Flutter, and ended up leading the mobile team at FPT. In early 2024 I moved into
+moved to Flutter, and ended up leading the mobile team at FPT. In early 2026 I moved into
 backend and platform work, and I now lead the team building VMSmart, a video management
 system deployed across retail and banking sites.
 
